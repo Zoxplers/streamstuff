@@ -1,0 +1,13 @@
+/*Made by Matthew Amurao*/
+
+/*Tags*/
+html, body
+{
+    background-color: rgb(12, 8, 25);
+}
+
+/*Classes*/
+.hidden
+{
+    display: none;
+}
